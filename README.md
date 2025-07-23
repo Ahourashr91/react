@@ -11,7 +11,8 @@ This repository contains various practice and demo projects I've created to expl
 - 🛍️ **Shopping App** — Simple product list with cart logic  
 - 📋 **Todo List** — Task management with add/remove features  
 - 🍽️ **Recipe App** — Browse and view recipes  
-- 📊 **Persian Admin Panel** — A Persian-language admin dashboard with RTL support  
+- 📊 **Persian Admin Panel** — A Persian-language admin dashboard with RTL support
+- ❔ **Quiz App** — A History quiz app using React.js and JSON Server 
 
 > All files are provided in `.zip` format. Extract them and run individually using standard React workflow.
 
@@ -21,4 +22,3 @@ For each project:
 ```bash
 npm install
 npm run dev
-
